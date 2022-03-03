@@ -1,5 +1,15 @@
 # microbundle
 
+## 0.14.3
+
+### Patch Changes
+
+- [`f04c85a`](https://github.com/developit/microbundle/commit/f04c85a1885a28a16c767665a1d5f17b13834406) [#926](https://github.com/developit/microbundle/pull/926) Thanks [@developit](https://github.com/developit)! - Fix mangle.json being overwritten with `[object Object]`
+
+* [`392d63e`](https://github.com/developit/microbundle/commit/392d63ef437f25403c03826f77790722d0234b58) [#919](https://github.com/developit/microbundle/pull/919) Thanks [@rschristian](https://github.com/rschristian)! - Fixes CSS output from being overwritten when also generating .cjs
+
+- [`fb0a437`](https://github.com/developit/microbundle/commit/fb0a43780a7462f4876955c3412638e51a7adb97) [#930](https://github.com/developit/microbundle/pull/930) Thanks [@rschristian](https://github.com/rschristian)! - Documenting --jsxFragment flag
+
 ## 0.14.2
 
 ### Patch Changes
